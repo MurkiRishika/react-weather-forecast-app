@@ -1,2 +1,4 @@
-# react-weather-forecast-app
-A React-based weather application that fetches real-time weather data from the OpenWeatherMap API using Axios and visualizes 5-day temperature forecasts with Chart.js.
+# Experiment 13
+Skill Development Course (Node JS / React JS / Django) - Lab Manual
+
+See the .docx file in this folder for the aim, steps, code and output.
